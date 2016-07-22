@@ -256,6 +256,12 @@ form {
   padding: 20px;
 }
 
+.userCreated{
+  font-family: 'impact', sans-serif, cursive;
+  background-color:orange;
+  font-size: 24px;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
@@ -423,3 +429,5 @@ Small Device Styles
   }
 
 }
+
+/*User defined classes*/
